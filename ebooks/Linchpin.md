@@ -1,6 +1,6 @@
-<style>
+<!--style>
 o { color: Orange }
-</style>
+</style-->
 # Linchpin
 
 <details>
