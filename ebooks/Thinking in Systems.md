@@ -1,8 +1,8 @@
-<style>
+<!--style>
 r { color: Red }
 o { color: Orange }
 g { color: Green }
-</style><details>
+</style--><details>
 <summary>Chapter 1: The Basics</summary>
 
 ## 
